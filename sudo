@@ -1,0 +1,61 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  nodejs
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 29.6 MB of archives.
+After this operation, 187 MB of additional disk space will be used.
+Get:1 https://deb.nodesource.com/node_18.x nodistro/main amd64 nodejs amd64 18.20.4-1nodesource1 [29.6 MB]
+Fetched 29.6 MB in 3s (10.2 MB/s)
+Selecting previously unselected package nodejs.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 82038 files and directories currently installed.)
+Preparing to unpack .../nodejs_18.20.4-1nodesource1_amd64.deb ...
+Unpacking nodejs (18.20.4-1nodesource1) ...
+Setting up nodejs (18.20.4-1nodesource1) ...
+Processing triggers for man-db (2.10.2-1) ...
+[?1049h[22;0;0t[1;45r[4l[?25l(B[m[37m[40m[1;45r[H[2J[1;1H[97m[45m[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[1;1H[37mPackage configuration[16;16H[30m[47m┌────┤ [31mDaemons using outdated libraries[30m ├─────┐[17;16H│                                             │[97m[40m [18;16H[30m[47m│                                             │[97m[40m [19;16H[30m[47m│ Which services should be restarted?         │[97m[40m [20;16H[30m[47m│                                             │[97m[40m [21;16H[30m[47m│    [37m[45m[[41m [45m] dbus.service                 [30m[47m        │[97m[40m [22;16H[30m[47m│    [37m[45m[ ] networkd-dispatcher.service  [30m[47m        │[97m[40m [23;16H[30m[47m│    [37m[45m[ ] systemd-logind.service       [30m[47m        │[97m[40m [24;16H[30m[47m│    [37m[45m[ ] unattended-upgrades.service  [30m[47m        │[97m[40m [25;16H[30m[47m│    [37m[45m[ ] user@1000.service            [30m[47m        │[97m[40m [26;16H[30m[47m│                                             │[97m[40m [27;16H[30m[47m│                                             │[97m[40m [28;16H[30m[47m│          <Ok>              <Cancel>         │[97m[40m [29;16H[30m[47m│                                             │[97m[40m [30;16H[30m[47m└─────────────────────────────────────────────┘[97m[40m [31;17H                                               [21;25H[21;22H[37m[45m [22;22H[41m [22;25H[21;22H [22;22H[45m [21;25H
